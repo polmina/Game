@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Arthur",
+    "level": 1,
+    "healthPoints": 100,
+    "equipment": {
+      "weapon": "Excalibur"
+    },
+    "stats": {
+      "strength": 10,
+      "dexterity": 5,
+      "intelligence": 5
+    },
+    "spellsSlotted": [],
+    "spellsKnown": []
+  },
+  {
+    "name": "Merlin",
+    "level": 1,
+    "healthPoints": 70,
+    "equipment": {
+      "weapon": "Archmage's staff"
+    },
+    "stats": {
+      "strength": 5,
+      "dexterity": 5,
+      "intelligence": 20
+    },
+    "spellsSlotted": ["fireball", "icebold"],
+    "spellsKnown": ["fireball", "icebold"]
+  }
+]

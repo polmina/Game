@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Excalibur",
+    "baseDamage": 20
+  },
+  {
+    "name": "Archmage's staff",
+    "baseDamage": 5,
+    "onEquip": {
+      "extraSpellDamage": 5
+    }
+  }
+]

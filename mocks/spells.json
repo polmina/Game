@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Fireball",
+    "baseDamage": 5
+  },
+  {
+    "name": "Icebold",
+    "baseDamage": 10
+  }
+]
